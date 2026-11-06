@@ -26,6 +26,9 @@ namespace GymProgramm
                 Console.WriteLine($"Количество сертификатов: {certificates}");
                 Console.WriteLine($"Стоимость со скидкой: {price}");
                 Console.WriteLine($"Скидка: {sale}");
+
+                Console.WriteLine("это жопа поная дахуя ошибок!!!");
+
                 int temp = 0;
                 foreach (ICertificate cert in queue)
                 {
