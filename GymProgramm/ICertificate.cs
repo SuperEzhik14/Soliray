@@ -34,6 +34,7 @@ namespace GymProgramm
                     mounts++;
                     datelastpay = DateTime.Now; 
                     Console.WriteLine("Вы успешно продлили абонимент на 1 месяц");
+                    
                 }
                 else
                 {
